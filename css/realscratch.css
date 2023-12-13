@@ -1,0 +1,78 @@
+.bigheader{
+    width: 100%;
+    font-family:'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(72, 72, 72);
+}
+.normaltext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    width: 100%;
+    color: rgb(0, 0, 0));
+   text-align: center;
+}
+
+.lefttext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    position:relative;
+    left:50px; 
+}
+.righttext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    position:relative;
+    right:-1175px; 
+}
+
+.image{
+/* position: right; */
+width: 400px; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.image2{
+   position:absolute;
+    top: 800px; ;
+    width: 400px; 
+    
+    /* display: block; */
+    /* margin-left: auto;
+    margin-right: 0;} */
+}
+
+.littleheader{
+    width: 100%;
+    font-family:'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: xx-large;
+  
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: rgb(215, 153, 153);
+    width:100px;
+    width: 100%;
+    color: rgb(0, 0, 0);
+}
+
+.picture {
+    margin-right: auto;
+    display:block;
+    width: 400px; 
+  }
+
+.picture2{
+    margin-left:auto;
+    display: block;
+    width: 400px;
+    
+}
+
